@@ -1,0 +1,23 @@
+{
+  "pack":{
+      "pack_format": 26,
+      "supported_formats":[26,48],
+      "description": "Blossoming Pots v2.0 by runcows"
+  },
+  "overlays":{
+    "entries":[
+      {
+        "directory":"1_20_3",
+        "formats":26
+      },
+      {
+        "directory":"1_20_5",
+        "formats":41
+      },
+      {
+        "directory":"1_21",
+        "formats":48
+      }
+    ]
+  }
+}

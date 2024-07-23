@@ -1,0 +1,1 @@
+$execute as @a[distance=..16] run function rc_blossoming_pots:sound/play with storage rc_blossoming_pots:storage $(id)

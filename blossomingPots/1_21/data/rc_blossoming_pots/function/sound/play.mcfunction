@@ -1,0 +1,1 @@
+$playsound $(place_sound) block @s ~ ~ ~

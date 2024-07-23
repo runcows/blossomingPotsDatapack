@@ -1,0 +1,1 @@
+execute as @a[advancements={rc_blossoming_pots:item_in_pot=true}] at @s anchored eyes run function rc_blossoming_pots:main/as_player

@@ -1,0 +1,1 @@
+$summon minecraft:block_display ~ ~ ~ {view_range:0.7935f,Tags:["rc_blossoming_pots.decorPotPlant","rc_blossoming_pots.decorPotPlant$(number)"],Rotation:[$(marker)f,0f]}
